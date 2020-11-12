@@ -1,7 +1,7 @@
 Setup
-Git Clone the project with: git clone https://github.com/redianmarku/Django-Twitter-Clone.git.
+Git Clone the project with: git clone https://github.com/shaniaakhan21/Tweet-django-clone
 
-Move to the base directory: cd Django-Twitter-Clone
+Move to the base directory: cd Tweet-django-clone
 
 Create a new python enveronment with: python -m venv env.
 
